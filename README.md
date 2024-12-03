@@ -10,7 +10,7 @@ This repository supports the NOVA-DISCOVER ecosystem, designed for behavior anal
 
 ## Repositories  
 
-- **[DISCOVER](https://github.com/hcmlab/discover):** Backend module for behavior analysis.  
+- **[DISCOVER](https://github.com/hcmlab/discover-modules):** Backend module for behavior analysis.  
 - **[NOVA](https://github.com/hcmlab/nova):** User interface for behavior analysis and annotation visualization.  
 
 ## Key Features  

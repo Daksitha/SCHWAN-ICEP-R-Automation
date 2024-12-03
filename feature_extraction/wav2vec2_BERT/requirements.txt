@@ -1,0 +1,6 @@
+hcai-nova-utils
+torch
+torchaudio
+numpy
+librosa
+transformers

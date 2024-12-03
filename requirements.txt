@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.2.1
+torchvision==0.15.0
+omegaconf
+torchmetrics==0.10.3
+fvcore
+iopath
+submitit
+Pillow
+matplotlib
+--index-url https://download.pytorch.org/whl/cu121 -U
+xformers
+hcai-nova-utils
+numpy
+librosa
+transformers
